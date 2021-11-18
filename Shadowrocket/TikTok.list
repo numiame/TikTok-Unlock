@@ -1,4 +1,5 @@
 # NAME: TikTok
+[Rule]
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
